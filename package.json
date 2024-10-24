@@ -1,13 +1,4 @@
 {
-  "name": "AlichaXRat",
-  "version": "1.0",
-  "description": "Script bot Telegram by AlichaIcha",
-  "main": "start.js",
-  "script": {
-    "start": "node index.js",
-  },
-  "author": "AlichaIcha",
-  "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@develoka/angka-terbilang-js": "latest",
